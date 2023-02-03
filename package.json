@@ -1,6 +1,6 @@
 {
   "name": "wiremock-admin-client",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha.0",
   "description": "Humble Wiremock admin client",
   "bin": "bin/cli.js",
   "scripts": {
